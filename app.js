@@ -25,5 +25,5 @@ app.post('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`express is listening on locathost:${port}`)
+  console.log(`express is listening on localhost:${port}`)
 })
